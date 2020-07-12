@@ -1,0 +1,7 @@
+.fb-root {
+    height:100px;
+    width:100px;
+    display: block;
+    position: absolute;
+    top:100px;
+}
