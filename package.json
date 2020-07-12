@@ -10,6 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-facebook": "^8.1.4",
+    "react-messenger-customer-chat": "^0.8.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
